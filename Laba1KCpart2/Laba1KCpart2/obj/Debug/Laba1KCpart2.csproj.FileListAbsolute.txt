@@ -1,0 +1,14 @@
+C:\Лаби\КС\Laba1KCpart2\Laba1KCpart2\bin\Debug\Laba1KCpart2.exe.config
+C:\Лаби\КС\Laba1KCpart2\Laba1KCpart2\bin\Debug\Laba1KCpart2.exe
+C:\Лаби\КС\Laba1KCpart2\Laba1KCpart2\bin\Debug\Laba1KCpart2.pdb
+C:\Лаби\КС\Laba1KCpart2\Laba1KCpart2\obj\Debug\Laba1KCpart2.csprojAssemblyReference.cache
+C:\Лаби\КС\Laba1KCpart2\Laba1KCpart2\obj\Debug\Laba1KCpart2.csproj.CoreCompileInputs.cache
+C:\Лаби\КС\Laba1KCpart2\Laba1KCpart2\obj\Debug\Laba1KCpart2.exe
+C:\Лаби\КС\Laba1KCpart2\Laba1KCpart2\obj\Debug\Laba1KCpart2.pdb
+C:\Users\Nikita\Desktop\1\Laba1KCpart2\Laba1KCpart2\bin\Debug\Laba1KCpart2.exe.config
+C:\Users\Nikita\Desktop\1\Laba1KCpart2\Laba1KCpart2\bin\Debug\Laba1KCpart2.exe
+C:\Users\Nikita\Desktop\1\Laba1KCpart2\Laba1KCpart2\bin\Debug\Laba1KCpart2.pdb
+C:\Users\Nikita\Desktop\1\Laba1KCpart2\Laba1KCpart2\obj\Debug\Laba1KCpart2.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\1\Laba1KCpart2\Laba1KCpart2\obj\Debug\Laba1KCpart2.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\1\Laba1KCpart2\Laba1KCpart2\obj\Debug\Laba1KCpart2.exe
+C:\Users\Nikita\Desktop\1\Laba1KCpart2\Laba1KCpart2\obj\Debug\Laba1KCpart2.pdb

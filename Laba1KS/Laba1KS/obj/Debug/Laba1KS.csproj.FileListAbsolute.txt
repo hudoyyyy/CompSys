@@ -1,0 +1,14 @@
+C:\Users\Zhuk\source\repos\Laba1KS\Laba1KS\obj\Debug\Laba1KS.csprojAssemblyReference.cache
+C:\Users\Zhuk\source\repos\Laba1KS\Laba1KS\obj\Debug\Laba1KS.csproj.CoreCompileInputs.cache
+C:\Users\Zhuk\source\repos\Laba1KS\Laba1KS\bin\Debug\Laba1KS.exe.config
+C:\Users\Zhuk\source\repos\Laba1KS\Laba1KS\bin\Debug\Laba1KS.exe
+C:\Users\Zhuk\source\repos\Laba1KS\Laba1KS\bin\Debug\Laba1KS.pdb
+C:\Users\Zhuk\source\repos\Laba1KS\Laba1KS\obj\Debug\Laba1KS.exe
+C:\Users\Zhuk\source\repos\Laba1KS\Laba1KS\obj\Debug\Laba1KS.pdb
+C:\Users\Nikita\Desktop\1\Laba1KS\Laba1KS\bin\Debug\Laba1KS.exe.config
+C:\Users\Nikita\Desktop\1\Laba1KS\Laba1KS\bin\Debug\Laba1KS.exe
+C:\Users\Nikita\Desktop\1\Laba1KS\Laba1KS\bin\Debug\Laba1KS.pdb
+C:\Users\Nikita\Desktop\1\Laba1KS\Laba1KS\obj\Debug\Laba1KS.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\1\Laba1KS\Laba1KS\obj\Debug\Laba1KS.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\1\Laba1KS\Laba1KS\obj\Debug\Laba1KS.exe
+C:\Users\Nikita\Desktop\1\Laba1KS\Laba1KS\obj\Debug\Laba1KS.pdb
