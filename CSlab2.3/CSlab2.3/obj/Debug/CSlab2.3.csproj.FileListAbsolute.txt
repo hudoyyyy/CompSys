@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\Новая папка (2)\CSlab2.3\CSlab2.3\bin\Debug\CSlab2.3.exe.config
+C:\Users\Alex\Desktop\Новая папка (2)\CSlab2.3\CSlab2.3\bin\Debug\CSlab2.3.exe
+C:\Users\Alex\Desktop\Новая папка (2)\CSlab2.3\CSlab2.3\bin\Debug\CSlab2.3.pdb
+C:\Users\Alex\Desktop\Новая папка (2)\CSlab2.3\CSlab2.3\obj\Debug\CSlab2.3.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Новая папка (2)\CSlab2.3\CSlab2.3\obj\Debug\CSlab2.3.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Новая папка (2)\CSlab2.3\CSlab2.3\obj\Debug\CSlab2.3.exe
+C:\Users\Alex\Desktop\Новая папка (2)\CSlab2.3\CSlab2.3\obj\Debug\CSlab2.3.pdb
